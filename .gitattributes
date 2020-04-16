@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.c linguist-detectable=true
-*.php linguist-detectable=true
-*.javascript linguist-detectable=true
+dbRFID/* linguist-vendored
+assets/* linguist-vendored
